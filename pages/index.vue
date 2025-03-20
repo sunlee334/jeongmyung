@@ -1,4 +1,7 @@
 <template>
+    <Head>
+        <Title>정명</Title>
+    </Head>
     <v-parallax src="/img/cover.png">
         <v-container class="fill-height">
             <v-row class="justify-center align-center flex-column-reverse flex-md-row">
